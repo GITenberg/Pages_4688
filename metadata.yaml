@@ -1,0 +1,27 @@
+_repo: Pages_4688
+creator:
+  author:
+    agent_name: Mallarmé, Stéphane
+    aliases:
+    - Mallarmé, Etienne
+    - Mallarme, Stephane
+    birthdate: 1842
+    deathdate: 1898
+    gutenberg_agent_id: '1547'
+    url: http://www.gutenberg.org/2009/agents/1547
+    wikipedia: http://en.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4688'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 19th century'
+title: Pages
+url: http://www.gutenberg.org/ebooks/4688
