@@ -1,5 +1,8 @@
 _repo: Pages_4688
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mallarmé, Stéphane
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1547
     wikipedia: http://en.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4688#Pages
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
